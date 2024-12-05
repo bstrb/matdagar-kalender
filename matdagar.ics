@@ -8,6 +8,12 @@ SUMMARY:Nutelladagen
 UID:306d5280-e4a5-4bb9-b29f-4e9b8ae6ab61@matdagar.com
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION: Grattis på Fredag min älskade.
+SUMMARY:Fredag.
+UID:306d5280-e4k5-4ba9-b29f-4e9b8ae6ab61@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250304
 DESCRIPTION:Ät semlor på Fettisdagen.
 SUMMARY:Fettisdagen
