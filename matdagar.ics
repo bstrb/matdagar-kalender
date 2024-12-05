@@ -1,0 +1,880 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Njut av hantverksglass på Europeiska dagen för hantverksmässigt tillverkad glass.
+DTSTART:20250324T000000Z
+SUMMARY:Europeiska dagen för hantverksmässigt tillverkad glass
+UID:0d3487b6-1430-4c55-8ff8-0cb44b4284cc@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Köttbullens dag med klassiska köttbullar.
+DTSTART:20250823T000000Z
+SUMMARY:Köttbullens dag
+UID:dc8f2026-fe24-45cb-ad42-53832eb4fd08@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av wienerbröd på Wienerbrödets dag.
+DTSTART:20251122T000000Z
+SUMMARY:Wienerbrödets dag
+UID:7201105f-0d95-4dbf-98c0-f02163b5567b@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ha en bål på Bålens dag.
+DTSTART:20250920T000000Z
+SUMMARY:Bålens dag
+UID:7fd6238e-bfd9-47d3-a6e9-23d4cc4ebee0@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera benbuljong i dina rätter på Benbuljongens dag.
+DTSTART:20251118T000000Z
+SUMMARY:Benbuljongens dag
+UID:e7377c8a-42ca-415f-9907-85595e01536c@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av parisar på Parisarens dag.
+DTSTART:20251017T000000Z
+SUMMARY:Parisarens dag
+UID:f89838ba-32b2-460d-8d15-5f52235a3f47@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av choklad på Chokladens dag.
+DTSTART:20251111T000000Z
+SUMMARY:Chokladens dag
+UID:37c00b4e-afe6-477b-a836-002b25c0af84@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Upplev Fössta Tossdan i Mass med massor av god mat.
+DTSTART:20250306T000000Z
+SUMMARY:Fössta Tossdan i Mass
+UID:44c89474-7f82-4daa-8076-e93d8ab87515@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Janssons-dagen med Janssons frestelse.
+DTSTART:20250926T000000Z
+SUMMARY:Janssons-dagen
+UID:43d5e31a-1f13-412d-9fae-c111558283c5@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Kaffets dag med en kopp kaffe.
+DTSTART:20250929T000000Z
+SUMMARY:Kaffets dag
+UID:980d849b-44b2-48c5-94f0-e0f28cbbe76b@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av färskpotatis på Färskpotatisens dag.
+DTSTART:20250606T000000Z
+SUMMARY:Färskpotatisens dag
+UID:55920b6b-3d17-4cbd-8da9-8f84c1d24fdc@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organisera din matlåda på Matlådans dag.
+DTSTART:20250323T000000Z
+SUMMARY:Matlådans dag
+UID:44bc8dda-db2c-425e-8728-7cbd19961648@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Upplev Drive-thru dagen med snabbmat.
+DTSTART:20250724T000000Z
+SUMMARY:Drive-thru dagen
+UID:d9030325-49a3-408a-a4c9-f3cb9b417544@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Skumtomtens dag med lätta och fluffiga godsaker.
+DTSTART:20251221T000000Z
+SUMMARY:Skumtomtens dag
+UID:fcd57957-b6f0-408a-bcf1-daac62aaf38f@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Smörgåstårtans dag med en läcker smörgåstårta.
+DTSTART:20251113T000000Z
+SUMMARY:Smörgåstårtans dag
+UID:f4638668-3502-4b44-8032-a00850e8cc91@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av äpplemust på Äpplemustens Dag.
+DTSTART:20251011T000000Z
+SUMMARY:Äpplemustens Dag
+UID:e4f71965-3ea2-4882-a204-7d32a4f1b288@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av glögg på Glöggens dag.
+DTSTART:20251201T000000Z
+SUMMARY:Glöggens dag
+UID:52f7814f-16e1-41e9-8d83-74a9f2bba5db@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av räkmacka på Räkmackans dag.
+DTSTART:20251014T000000Z
+SUMMARY:Räkmackans dag
+UID:0826f7c2-ca10-4b0c-8cdf-04db7cc3dfd0@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Välj vegetariska rätter på Vegetariska världsdagen.
+DTSTART:20251001T000000Z
+SUMMARY:Vegetariska världsdagen
+UID:ff8a1991-a2e2-413a-a675-d672ba01cb74@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Grynkorvens dag med grynkorv.
+DTSTART:20251016T000000Z
+SUMMARY:Grynkorvens dag
+UID:61ff1032-264b-4f98-8cb6-59a69037509a@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera örter i dina rätter på Örtens dag.
+DTSTART:20250802T000000Z
+SUMMARY:Örtens dag
+UID:83388558-d6dc-4f24-adcf-aa4fd153926e@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dela en måltid med vänner och familj på Måltidens gemenskapsdag.
+DTSTART:20250523T000000Z
+SUMMARY:Måltidens gemenskapsdag
+UID:3f8cd373-b6fb-4999-a919-828efcec0291@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Knäckebrödets dag med knaprigt knäckebröd.
+DTSTART:20250219T000000Z
+SUMMARY:Knäckebrödets dag
+UID:2ff119aa-d14f-4964-810c-fa65543431c1@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira LCHF-dagen med låga kolhydrater och högt fettintag.
+DTSTART:20250116T000000Z
+SUMMARY:Internationella LCHF-dagen
+UID:2ef8c1e8-7cdf-47ba-a5e2-81bc9106144f@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av champagne på Internationella champagnedagen.
+DTSTART:20251024T000000Z
+SUMMARY:Internationella champagnedagen
+UID:cad4ebdb-3db0-40c9-a04f-574cdded8739@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera honung i dina rätter på Honungens dag.
+DTSTART:20250820T000000Z
+SUMMARY:Honungens dag
+UID:393dd978-2f32-40f7-8d76-344439b24b3e@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Vinets dag med ett glas av ditt favoritvin.
+DTSTART:20250122T000000Z
+SUMMARY:Vinets dag
+UID:78519fa2-12f0-414f-b49e-2866a982ce11@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av mormorsrutor på Mormorsrutans dag.
+DTSTART:20250815T000000Z
+SUMMARY:Mormorsrutans dag
+UID:cc7ea154-1989-46b0-9c05-a9cf4ee123ea@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av kladdkaka på Kladdkakans dag.
+DTSTART:20251107T000000Z
+SUMMARY:Kladdkakans dag
+UID:a20b0f7f-e6ee-4f81-91df-d6c888eddcf6@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Fruktens dag med dina favoritfrukter.
+DTSTART:20250606T000000Z
+SUMMARY:Fruktens dag
+UID:faf8824d-d058-4ed2-aca0-f1e4ad254784@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Sillens dag med olika sillsorter.
+DTSTART:20250606T000000Z
+SUMMARY:Sillens dag
+UID:0e68e3a5-9eaf-4295-a995-3e14fe5fad03@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera müsli i din kost på Internationella müslidagen.
+DTSTART:20250822T000000Z
+SUMMARY:Internationella müslidagen
+UID:d093eaaf-5349-413f-8de8-ca03db278426@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av äpplen på Äpplets dag.
+DTSTART:20250925T000000Z
+SUMMARY:Äpplets dag
+UID:467b6fa9-0b58-4239-a39e-727842ad0cce@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira matkulturen med finsksvenska rätter på Finlandssvenska matkulturdagen.
+DTSTART:20251009T000000Z
+SUMMARY:Finlandssvenska matkulturdagen
+UID:60b05482-2848-487a-afc3-d3f1038bbe29@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av grogg på Groggens dag.
+DTSTART:20250821T000000Z
+SUMMARY:Groggens dag
+UID:bd838735-4937-4c5e-9667-438c33a808b1@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med korvar på Alla korvars dag.
+DTSTART:20250312T000000Z
+SUMMARY:Alla korvars dag
+UID:b01ab4ce-2a8e-4442-a188-32ba17226f41@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av donuts på Internationella donutdagen.
+DTSTART:20250606T000000Z
+SUMMARY:Internationella donutdagen
+UID:baa454c0-6567-42ab-ad7a-825ef3b38b06@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Rulltårtans dag med goda rulltårtor.
+DTSTART:20250809T000000Z
+SUMMARY:Rulltårtans dag
+UID:dd224a71-11ed-49f7-8684-4e7b69ec539a@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av napoleonbakelser på Napoleonbakelsens dag.
+DTSTART:20251117T000000Z
+SUMMARY:Napoleonbakelsens dag
+UID:c96fe5c3-5a68-4613-9b24-0ca5a5fc41fa@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med bullar på Bulle med bullens-dag.
+DTSTART:20250410T000000Z
+SUMMARY:Bulle med bullens-dag
+UID:1fba86ac-10cc-4ecb-96cf-35edcb7ec224@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera baljväxter i din kost på Baljväxtens dag.
+DTSTART:20250210T000000Z
+SUMMARY:Baljväxtens dag
+UID:97b82e2f-1606-402f-8588-82d6662ac539@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Surdegsdagen med surdegsbröd.
+DTSTART:20250412T000000Z
+SUMMARY:Surdegsdagen
+UID:e93fe5ca-a428-4787-b92c-0edd7d2e44a8@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med pannkakor på Internationella pannkaksdagen.
+DTSTART:20250304T000000Z
+SUMMARY:Internationella pannkaksdagen
+UID:7705b2d1-ed28-4146-ab4e-eb5441b13029@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Kåldolmens dag med traditionell kåldolme.
+DTSTART:20251130T000000Z
+SUMMARY:Kåldolmens dag
+UID:3cb75702-aca8-4c31-a233-c893e9ac2cca@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Hallongrottans dag med hallon och godis.
+DTSTART:20250317T000000Z
+SUMMARY:Hallongrottans dag
+UID:89f24b6a-5e0f-40e2-a3b4-9acd9b28453b@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera mjölk i din kost på Mjölkens dag.
+DTSTART:20250601T000000Z
+SUMMARY:Mjölkens dag
+UID:4664f9db-5400-43b9-8227-e04d9186b066@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera svamp i dina rätter på Svampens dag.
+DTSTART:20250907T000000Z
+SUMMARY:Svampens dag
+UID:e401eac7-efc5-4021-bd26-cd53cc5f5f78@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av stout på Internationella stoutdagen.
+DTSTART:20251106T000000Z
+SUMMARY:Internationella stoutdagen
+UID:d351bc45-c2cc-459c-a548-8c0aa14cde1b@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av linssoppa på Linssoppans dag.
+DTSTART:20250412T000000Z
+SUMMARY:Linssoppans dag
+UID:5227c5d3-b418-45c6-a646-9739d8156890@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av en kopp te på Internationella tedagen.
+DTSTART:20250521T000000Z
+SUMMARY:Internationella tedagen
+UID:c04f6a09-01e5-4a19-ad6c-de33c5147bc4@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Internationella gin och tonic-dagen med din favoritdrink.
+DTSTART:20251019T000000Z
+SUMMARY:Internationella gin och tonic-dagen
+UID:d334a004-c1c0-4aca-8c7e-cece14d4fce5@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Lasagnens dag med en god lasagne.
+DTSTART:20250729T000000Z
+SUMMARY:Lasagnens dag
+UID:e896289f-0d1f-4ee9-aa86-b09676f4ca96@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Internationella vegandagen med veganska rätter.
+DTSTART:20251101T000000Z
+SUMMARY:Internationella vegandagen
+UID:70e6379a-d4cb-4f3e-8534-677e596d4b4b@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Sockerfria dagen med sockerfria alternativ.
+DTSTART:20251012T000000Z
+SUMMARY:Sockerfria dagen
+UID:8b27fd96-0050-4e77-90ae-4d714dd62478@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av brunch på Brunchens dag.
+DTSTART:20250921T000000Z
+SUMMARY:Brunchens dag
+UID:10cb2caa-8186-40df-a3ce-4118bcdfdfa5@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med tacos på Internationella Tacodagen.
+DTSTART:20251004T000000Z
+SUMMARY:Internationella Tacodagen
+UID:a5174f4c-3e88-4165-af55-ec5f2a40aab4@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Flaskmatardagen med mat direkt ur flaskan.
+DTSTART:20251128T000000Z
+SUMMARY:Flaskmatardagen
+UID:a17da085-fe22-447e-9534-9484a7c81b12@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av punschrullar på Punschrullens dag.
+DTSTART:20250307T000000Z
+SUMMARY:Punschrullens dag
+UID:cdcf2948-d4bf-4a1a-8888-3a4eecae5582@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Snapsens dag med din favorit snaps.
+DTSTART:20250830T000000Z
+SUMMARY:Snapsens dag
+UID:f58bb6c7-9cf3-4234-937a-260029590bff@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera fetaost i dina rätter på Fetaostens dag.
+DTSTART:20251015T000000Z
+SUMMARY:Fetaostens dag
+UID:8cffe646-bb34-4b57-9d40-7f6c2c51eba4@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av chokladbollar på Chokladbollens dag.
+DTSTART:20250511T000000Z
+SUMMARY:Chokladbollens dag
+UID:358f1ca4-c955-47e0-ba6c-ad3814e0a3d6@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av lösgodis på Lösgodisets dag.
+DTSTART:20250927T000000Z
+SUMMARY:Lösgodisets dag
+UID:40314182-e791-4438-9ea4-f08afb652ccf@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ha en picknick på Internationella picknickdagen.
+DTSTART:20250618T000000Z
+SUMMARY:Internationella picknickdagen
+UID:5a7dcfd3-056f-4a23-b19a-a169b16e4ace@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira hållbar gastronomi på Internationella dagen för hållbar gastronomi.
+DTSTART:20250618T000000Z
+SUMMARY:Internationella dagen för hållbar gastronomi
+UID:f6c0413a-6199-4917-af02-8d5e00b761c9@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera grapefrukt i dina måltider på Grapefruktens dag.
+DTSTART:20250225T000000Z
+SUMMARY:Grapefruktens dag
+UID:7b3bb78a-38a0-4027-a8a7-af19fcdeb85a@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Surströmmingens dag med traditionell surströmming.
+DTSTART:20250821T000000Z
+SUMMARY:Surströmmingens dag
+UID:4950a305-960f-4362-b16f-36033998bb48@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Messmörets dag med traditionell messa.
+DTSTART:20250919T000000Z
+SUMMARY:Messmörets dag
+UID:c4d55a5f-85a0-4d1d-826c-6252f99e8616@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med en god steak på Steak and BJ day.
+DTSTART:20250314T000000Z
+SUMMARY:Steak and BJ day
+UID:e95079c0-5d40-471d-ac78-c87940c150b0@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av lakrits på Lakritsdagen.
+DTSTART:20250412T000000Z
+SUMMARY:Lakritsdagen
+UID:0ed729da-c8b2-43df-88d6-3a422d0b65d0@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av en god burgare på Internationella burgardagen.
+DTSTART:20250528T000000Z
+SUMMARY:Internationella burgardagen
+UID:b0dc94ee-0eae-4f12-b25f-0358596b54ec@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Drick en öl-dagen med din favoritöl.
+DTSTART:20251203T000000Z
+SUMMARY:Drick en öl-dagen
+UID:ca7826b1-aae7-4d12-9dee-94857fb7a0c1@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av carbonara på Internationella Carbonara dagen.
+DTSTART:20250406T000000Z
+SUMMARY:Internationella Carbonara dagen
+UID:962e112d-a171-4c27-9df4-ccb92523b418@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Världshungerdagen med att stödja hungerbekämpning.
+DTSTART:20251016T000000Z
+SUMMARY:Världshungerdagen
+UID:fcfe833e-7e9b-4bb1-babe-ae5c200ee260@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av tunnbröd på Tunnbrödets dag.
+DTSTART:20250510T000000Z
+SUMMARY:Tunnbrödets dag
+UID:524cb812-1f90-4a7a-b098-744d8e32feb8@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Kardemummabullens dag med smakrika bullar.
+DTSTART:20250515T000000Z
+SUMMARY:Kardemummabullens dag
+UID:4f3d0c7e-45ec-4556-b872-b1c331eed726@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av varmkorv på Varmkorvens dag.
+DTSTART:20250723T000000Z
+SUMMARY:Varmkorvens dag
+UID:37f75b5e-9011-4099-9535-62ba74881627@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med gin och tonic på Svenska gin & tonic-dagen.
+DTSTART:20250420T000000Z
+SUMMARY:Svenska gin & tonic-dagen
+UID:ec2e2d2b-2194-4295-ac78-9af7561e8088@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av polkagrisar på Polkagrisens dag.
+DTSTART:20250420T000000Z
+SUMMARY:Polkagrisens dag
+UID:f4fe0fff-277b-4188-8e2a-f9716ffb58c3@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av whiskey på Internationella whiskydagen.
+DTSTART:20250517T000000Z
+SUMMARY:Internationella whiskydagen
+UID:a0f2f548-edcc-4311-baae-dc26bcf9348c@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av gröt på Grötens dag.
+DTSTART:20251010T000000Z
+SUMMARY:Grötens dag
+UID:a03a589c-aa3f-49af-8b86-b2722b50358c@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Halloumiostens dag med grillad halloumi.
+DTSTART:20250519T000000Z
+SUMMARY:Halloumiostens dag
+UID:8cb6a3c1-1cb6-4b19-a3a8-854953ed82af@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Hackkorvens dag med din favoritkorv.
+DTSTART:20251025T000000Z
+SUMMARY:Hackkorvens dag
+UID:bc94cdf2-7896-459a-adcd-c7bd6ae57fb5@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av mazarin på Mazarindagen.
+DTSTART:20250313T000000Z
+SUMMARY:Mazarindagen
+UID:0186da75-dc9f-4b21-867b-e9a9b6b47a8e@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Cake and Cunnilingus Day med godis och tårta.
+DTSTART:20250414T000000Z
+SUMMARY:Cake and Cunnilingus Day
+UID:00ad2c1f-a396-4cb4-8059-6cad82b708b7@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera potatis i dina rätter på Potatisens dag.
+DTSTART:20251026T000000Z
+SUMMARY:Potatisens dag
+UID:5955358f-9937-4122-be5b-a8639c9e8c30@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Välj vegetariska rätter på Vegetariska dagen.
+DTSTART:20250201T000000Z
+SUMMARY:Vegetariska dagen
+UID:4bcc4027-2334-4948-bf69-faaea3a3fb96@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera morötter i din kost på Morotens dag.
+DTSTART:20250404T000000Z
+SUMMARY:Morotens dag
+UID:028303b0-d6b3-45e7-bebc-e53944102e82@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av palta på Paltdagen.
+DTSTART:20250713T000000Z
+SUMMARY:Paltdagen
+UID:df586e45-65f6-460d-b6aa-f6a003fdd240@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Ostens dag med olika ostar.
+DTSTART:20250527T000000Z
+SUMMARY:Ostens dag
+UID:a2fdcb3d-a1f1-43b3-8456-77c1d62bba76@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Internationella råkostdagen med råa grönsaker.
+DTSTART:20250711T000000Z
+SUMMARY:Internationella råkostdagen
+UID:f340b713-e29d-4c78-82b6-2115d1c6d136@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av chokladpudding på Chokladpuddingens dag.
+DTSTART:20250626T000000Z
+SUMMARY:Chokladpuddingens dag
+UID:59592dda-ebd4-41ad-806a-54a82ec98c5f@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Förbättra dina rätter med tomatsås på Tomatsåsens dag.
+DTSTART:20250309T000000Z
+SUMMARY:Tomatsåsens dag
+UID:f2179962-2bd5-43cb-8693-1535960bd86d@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Grilla dina favoriträtter på Grillens dag.
+DTSTART:20250502T000000Z
+SUMMARY:Grillens dag
+UID:b659096d-e1f9-40d2-b43e-a8c433bc5bc0@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Våffeldagen med dina favoritvåfflor.
+DTSTART:20250325T000000Z
+SUMMARY:Våffeldagen
+UID:7f3cf33f-21b5-4c0f-a8f2-f2d5a43beeb3@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av popcorn på Internationella popcorndagen.
+DTSTART:20250119T000000Z
+SUMMARY:Internationella popcorndagen
+UID:95867da3-0663-4b4c-abf3-ecdd5049d8e9@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Spendera lite extra tid med Nutella på Nutelladagen.
+DTSTART:20250205T000000Z
+SUMMARY:Nutelladagen
+UID:4c2ea310-1603-42a4-b99f-926e49f1d216@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Raggmunkens dag med raggmunkar.
+DTSTART:20251118T000000Z
+SUMMARY:Raggmunkens dag
+UID:2a6023d0-3764-4d03-afcf-c0d98edb51ff@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Pilsnerkorvens dag med din favoritkorv.
+DTSTART:20250630T000000Z
+SUMMARY:Pilsnerkorvens dag
+UID:eeffba66-7fc1-46e1-b593-c99497febeda@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av pepparkakor på Pepparkakans dag.
+DTSTART:20251209T000000Z
+SUMMARY:Pepparkakans dag
+UID:c639a489-6680-4c18-83ef-d471d2fda2b8@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Ölets dag med din favoritöl.
+DTSTART:20250716T000000Z
+SUMMARY:Ölets dag
+UID:bd264142-2575-4e01-9795-f759789ca584@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av mandelkubb på Mandelkubbens dag.
+DTSTART:20250303T000000Z
+SUMMARY:Mandelkubbens dag
+UID:29531588-802d-4c1c-90ad-05a6062f591b@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av bananer på Bananens dag.
+DTSTART:20250304T000000Z
+SUMMARY:Bananens dag
+UID:41f41b6b-5912-4735-b8b9-3de8101ac772@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera tonfisk i din kost på Världsdagen för tonfisk.
+DTSTART:20250502T000000Z
+SUMMARY:Världsdagen för tonfisk
+UID:0add44e9-81e3-4262-b00b-a92e61f7eaa4@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira mångkulturell mat på Mångkulturella matdagen.
+DTSTART:20251116T000000Z
+SUMMARY:Mångkulturella matdagen
+UID:06fc8e42-2d85-433d-9ec0-ea2d2b82dba1@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av kakor på Kakans dag.
+DTSTART:20251218T000000Z
+SUMMARY:Kakans dag
+UID:a6c52ef7-0239-4d19-85d2-9b8088bba87d@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av Budapestbakelser på Budapestbakelsens dag.
+DTSTART:20250501T000000Z
+SUMMARY:Budapestbakelsens dag
+UID:4c1dc542-612b-4016-950d-7599635d5837@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Blanda din favorit smoothie på Smoothiens dag.
+DTSTART:20250202T000000Z
+SUMMARY:Smoothiens dag
+UID:2f154981-45c3-4103-9f68-83b629aeb201@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira med kebab på Internationella kebabdagen.
+DTSTART:20250505T000000Z
+SUMMARY:Internationella kebabdagen
+UID:4fe5e845-8cd2-4c87-82a1-d371846d299d@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av en kanelbulle på Kanelbullens dag.
+DTSTART:20251004T000000Z
+SUMMARY:Kanelbullens dag
+UID:f1b439dc-b39e-41f4-bbe0-41f748a6df25@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av ostkaka på Ostkakans dag.
+DTSTART:20251114T000000Z
+SUMMARY:Ostkakans dag
+UID:a170038d-a952-4802-a967-a8966d9e196e@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av frysrätter på Frysrättens dag.
+DTSTART:20251103T000000Z
+SUMMARY:Frysrättens dag
+UID:f827f4cb-e18c-4dcd-bdff-351bd4e10716@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uppskatta den söta smaken av marsipan på Marsipanens dag.
+DTSTART:20250112T000000Z
+SUMMARY:Marsipanens dag
+UID:b42b0c44-03f1-4641-801d-a3cfaac3fe0f@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av kebab på Kebabens dag.
+DTSTART:20250911T000000Z
+SUMMARY:Kebabens dag
+UID:eec952a2-421b-4854-8bdb-c740b8f7ed34@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av vattenmelon på Vattenmelonens dag.
+DTSTART:20250803T000000Z
+SUMMARY:Vattenmelonens dag
+UID:f1aaa0ba-4991-4b5f-9ecc-2069fdbd1afa@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Terra Madre day med hållbara livsmedel.
+DTSTART:20251210T000000Z
+SUMMARY:Terra Madre day
+UID:263102d7-877a-44e6-b56a-ab2749674841@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Världslivsmedelsdagen med hållbara livsmedel.
+DTSTART:20251016T000000Z
+SUMMARY:Världslivsmedelsdagen
+UID:e90e86e2-8e9c-491c-b594-7fd740b0dad4@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av chokladmuffins på Chokladmuffins dag.
+DTSTART:20251018T000000Z
+SUMMARY:Chokladmuffins dag
+UID:5f78339b-d811-4f7d-953e-5c1e3051f307@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av pasta på Världspastadagen.
+DTSTART:20251025T000000Z
+SUMMARY:Världspastadagen
+UID:2ff875a4-a1c1-4fb0-bda2-c1ad17ee1375@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera surkål i dina måltider på Surkålens dag.
+DTSTART:20250918T000000Z
+SUMMARY:Surkålens dag
+UID:2717744c-f96b-40ae-bd3f-0f51113dba9c@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av geléhallon på Geléhallonens dag.
+DTSTART:20250215T000000Z
+SUMMARY:Geléhallonens dag
+UID:a62e7ef7-80c8-48ab-a061-bedd7f0e1386@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Måltidens dag med goda måltider.
+DTSTART:20251016T000000Z
+SUMMARY:Måltidens dag
+UID:2b95f720-19e4-4045-a5b6-adb4b4dedf5a@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av en saftig morotskaka på Morotskakans dag.
+DTSTART:20250203T000000Z
+SUMMARY:Morotskakans dag
+UID:6ac3188d-4a5f-4b60-aae0-0f5596047b9f@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Fastlagssöndagen med traditionella sötsaker.
+DTSTART:20250302T000000Z
+SUMMARY:Fastlagssöndagen
+UID:e1b5ac46-b463-4a46-a797-acec94c910b8@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Baka hembakat bröd och kakor på Hembakatdagen.
+DTSTART:20250506T000000Z
+SUMMARY:Hembakatdagen
+UID:04549b01-246c-40fe-9b3f-3d55b72afe76@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Kaninköttets dag med kaninkött i dina rätter.
+DTSTART:20251105T000000Z
+SUMMARY:Kaninköttets dag
+UID:087f76a1-f774-44e3-928c-312cadb8f54d@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Salamins dag med salami i dina rätter.
+DTSTART:20250907T000000Z
+SUMMARY:Salamins dag
+UID:03a8666f-125a-4efe-826c-83c10669de3d@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av kräftor på Kräftpremiären.
+DTSTART:20250808T000000Z
+SUMMARY:Kräftpremiären
+UID:5824160c-bc53-48ce-a373-057a75cb7d22@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Tunnbrödsrullens dag med dina favoritrullar.
+DTSTART:20250510T000000Z
+SUMMARY:Tunnbrödsrullens dag
+UID:6c124c63-77a9-4a89-a0db-860ced65d421@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Ostbågens dag med dina favoritsoast!
+DTSTART:20250305T000000Z
+SUMMARY:Ostbågens dag
+UID:4944a2b7-d1f0-44c5-b021-1cf729f61b43@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prova en växtbaserad pizza på Veganpizza-dagen.
+DTSTART:20250129T000000Z
+SUMMARY:Veganpizza-dagen
+UID:10f8ab01-b691-43f9-97b0-4b5a7f164c32@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av sushi på Internationella sushidagen.
+DTSTART:20250618T000000Z
+SUMMARY:Internationella sushidagen
+UID:2fc1ecd5-a1cc-469b-876b-775d95c30da8@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Internationella vodkadagen med en vodka-cocktail.
+DTSTART:20251004T000000Z
+SUMMARY:Internationella vodkadagen
+UID:1b395421-73e0-4458-8e66-8038a77ab84d@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera skolmjölk i din kost på Skolmjölkens dag.
+DTSTART:20250924T000000Z
+SUMMARY:Skolmjölkens dag
+UID:0c851a3c-2479-41f0-a640-8defef41364e@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av öl på Internationella öldagen.
+DTSTART:20250801T000000Z
+SUMMARY:Internationella öldagen
+UID:ce8f127c-d7be-4271-90a7-c5bf4d3bc601@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av muffins på Muffinsdagen.
+DTSTART:20250527T000000Z
+SUMMARY:Muffinsdagen
+UID:6b376649-028b-4f3e-b022-9b30b49490ef@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera sallader i din kost på World Salad Day.
+DTSTART:20250320T000000Z
+SUMMARY:World Salad Day
+UID:ba62a2da-c042-4216-9533-b7667457e564@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Internationella ipa-dagen med din favorit IPA.
+DTSTART:20250807T000000Z
+SUMMARY:Internationella ipa-dagen
+UID:f52c5aa9-bf66-4ba0-ab84-e6fdc145894a@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av ostron på Ostronets dag.
+DTSTART:20250906T000000Z
+SUMMARY:Ostronets dag
+UID:0e78a539-2c06-47fc-9484-fa7ac555c6ac@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Äggahalvans dag med kreativa äggrecept.
+DTSTART:20250208T000000Z
+SUMMARY:Äggahalvans dag
+UID:2a5f751c-a6ec-4a1c-8b9f-c07d1eeeb9bb@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Internationella pizzadagen med din favoritpizza!
+DTSTART:20250101T000000Z
+SUMMARY:Internationella pizzadagen
+UID:d1049daa-2311-4b87-935e-d5f8871d0a83@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inkludera ägg i dina rätter på Äggets dag.
+DTSTART:20251010T000000Z
+SUMMARY:Äggets dag
+UID:fd82711b-c653-4b0d-be8b-7d61ba2c6246@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ha en picknick på Picknickens dag.
+DTSTART:20250522T000000Z
+SUMMARY:Picknickens dag
+UID:21bb67c9-615d-4244-91e1-ff61fcca2be4@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Njut av gräddtårta på Gräddtårtans dag.
+DTSTART:20251005T000000Z
+SUMMARY:Gräddtårtans dag
+UID:495b2e2f-60bb-474c-97b4-0a56f01378f2@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Senapens dag med senap i dina rätter.
+DTSTART:20250802T000000Z
+SUMMARY:Senapens dag
+UID:1118fd46-f2b0-44db-b654-45bf87e278c7@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ät semlor på Fettisdagen.
+DTSTART:20250304T000000Z
+SUMMARY:Fettisdagen
+UID:753f8ba3-88b8-4b1f-8986-183d032221d0@matdagar.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fira Mårtensafton med traditionella mårtenbakelser.
+DTSTART:20251110T000000Z
+SUMMARY:Mårtensafton
+UID:cf0d4309-c630-4cfa-9d75-d6da3325e516@matdagar.com
+END:VEVENT
+END:VCALENDAR
