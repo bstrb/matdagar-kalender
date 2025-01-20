@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaB
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION: F1: Math repetition and introduction to Octave.
+DTSTART;TZID=Europe/Stockholm:20250120T100000
+DTEND;TZID=Europe/Stockholm:20250120T120000
+DESCRIPTION:F1: Math repetition and introduction to Octave.
 SUMMARY:Strukturanalys med diffraktion: Föreläsning.
 UID:306d5280-e4a5-4bc9-b29f-4e9b8ae7ab61@strukturanalys.com
 END:VEVENT
