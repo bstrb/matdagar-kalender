@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaB
+
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Stockholm:20250120T100000
 DTEND;TZID=Europe/Stockholm:20250120T120000
@@ -8,4 +9,57 @@ DESCRIPTION:F1: Math repetition and introduction to Octave.
 SUMMARY:Strukturanalys med diffraktion: Föreläsning.
 UID:306d5280-e4a5-4bc9-b29f-4e9b8ae7ab61@strukturanalys.com
 END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250121T100000
+DTEND;TZID=Europe/Stockholm:20250121T120000
+DESCRIPTION:Crystals, X-ray sources, absorption.
+SUMMARY:F2: Crystals, X-ray sources, absorption.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250121T131500
+DTEND;TZID=Europe/Stockholm:20250121T160000
+DESCRIPTION:Start of project 1.
+SUMMARY:L1: Start of project 1.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250122T100000
+DTEND;TZID=Europe/Stockholm:20250122T120000
+DESCRIPTION:Scattering in crystals, Laue and Ewald.
+SUMMARY:F3: Scattering in crystals, Laue and Ewald.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250123T100000
+DTEND;TZID=Europe/Stockholm:20250123T120000
+DESCRIPTION:Point groups and space groups-I. 
+SUMMARY:F4: Point groups and space groups-I. 
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250123T131500
+DTEND;TZID=Europe/Stockholm:20250123T160000
+DESCRIPTION:R1.
+SUMMARY:R1.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250124T131500
+DTEND;TZID=Europe/Stockholm:20250124T160000
+DESCRIPTION: Oral presentation of project 1.
+SUMMARY:P1: Oral presentation of project 1.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+
+
+
 END:VCALENDAR
