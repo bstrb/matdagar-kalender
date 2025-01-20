@@ -58,7 +58,6 @@ SUMMARY:P1: Oral presentation of project 1.
 UID:unique-id-l1-20250121@strukturanalys.com
 END:VEVENT
 
-Vecka 2
 
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Stockholm:20250127T100000
@@ -124,7 +123,6 @@ SUMMARY: S1: lab (2,3) seminar.
 UID:unique-id-l1-20250121@strukturanalys.com
 END:VEVENT
 
-Vecka 3
 
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Stockholm:20250203T100000
@@ -190,7 +188,6 @@ SUMMARY: S2: lab (4,5) seminar.
 UID:unique-id-l1-20250121@strukturanalys.com
 END:VEVENT
 
-Vecka 4
 
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Stockholm:20250210T100000
