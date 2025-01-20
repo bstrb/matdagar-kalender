@@ -60,7 +60,6 @@ END:VEVENT
 
 Vecka 2
 
-
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Stockholm:20250127T100000
 DTEND;TZID=Europe/Stockholm:20250127T120000
@@ -109,5 +108,170 @@ SUMMARY: R2.
 UID:unique-id-l1-20250121@strukturanalys.com
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250130T100000
+DTEND;TZID=Europe/Stockholm:20250130T120000
+DESCRIPTION: Preparation for seminar
+SUMMARY: Preparation for seminar
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250130T131500
+DTEND;TZID=Europe/Stockholm:20250130T160000
+DESCRIPTION: lab (2,3) seminar.
+SUMMARY: S1: lab (2,3) seminar.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+Vecka 3
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250203T100000
+DTEND;TZID=Europe/Stockholm:20250203T120000
+DESCRIPTION: Direct methods-II
+SUMMARY:F8: Direct methods-II
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250203T131500
+DTEND;TZID=Europe/Stockholm:20250203T160000
+DESCRIPTION:Structure solution of TKLBFA.
+SUMMARY:L4: Structure solution of TKLBFA.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250204T100000
+DTEND;TZID=Europe/Stockholm:20250204T120000
+DESCRIPTION: Refinement of crystal structures, restraints 
+SUMMARY:F9: Refinement of crystal structures, restraints 
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250204T131500
+DTEND;TZID=Europe/Stockholm:20250204T160000
+DESCRIPTION:Structure solution of Cu-komplex.
+SUMMARY:L5: Structure solution of Cu-komplex. 
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250205T100000
+DTEND;TZID=Europe/Stockholm:20250205T120000
+DESCRIPTION: Data collection-II, twinning, Flack.
+SUMMARY:F10: Data collection-II, twinning, Flack.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250205T131500
+DTEND;TZID=Europe/Stockholm:20250205T160000
+DESCRIPTION:Data coll., RT, cryo, project 3.
+SUMMARY: L6: Data coll., RT, cryo, project 3.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250206T100000
+DTEND;TZID=Europe/Stockholm:20250206T120000
+DESCRIPTION: Preparation for seminar
+SUMMARY: Preparation for seminar
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250206T131500
+DTEND;TZID=Europe/Stockholm:20250206T160000
+DESCRIPTION: lab (4,5) seminar.
+SUMMARY: S2: lab (4,5) seminar.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+Vecka 4
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250210T100000
+DTEND;TZID=Europe/Stockholm:20250210T120000
+DESCRIPTION: Interpretation of results, cif format
+SUMMARY: F11: Interpretation of results, cif format
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250210T131500
+DTEND;TZID=Europe/Stockholm:20250210T160000
+DESCRIPTION: Project 3
+SUMMARY: Project 3
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250211T100000
+DTEND;TZID=Europe/Stockholm:20250211T120000
+DESCRIPTION: Electron diffraction.
+SUMMARY: F12: Electron diffraction.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250211T131500
+DTEND;TZID=Europe/Stockholm:20250211T160000
+DESCRIPTION: Project 3
+SUMMARY: Project 3
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250212T100000
+DTEND;TZID=Europe/Stockholm:20250212T120000
+DESCRIPTION: Synchrotron and neutron scatt.
+SUMMARY: F13: Synchrotron and neutron scatt.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250212T131500
+DTEND;TZID=Europe/Stockholm:20250212T160000
+DESCRIPTION: Project 3
+SUMMARY: Project 3
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250213T100000
+DTEND;TZID=Europe/Stockholm:20250213T120000
+DESCRIPTION: Project 3
+SUMMARY: Project 3
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250213T131500
+DTEND;TZID=Europe/Stockholm:20250213T160000
+DESCRIPTION: Project 3
+SUMMARY: Project 3
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250217T131500
+DTEND;TZID=Europe/Stockholm:20250217T160000
+DESCRIPTION: Oral presentation of project 3.
+SUMMARY: P2: Oral presentation of project 3.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250219T090000
+DTEND;TZID=Europe/Stockholm:20250219T150000
+DESCRIPTION: Examination
+SUMMARY: Examination
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
 
 END:VCALENDAR
