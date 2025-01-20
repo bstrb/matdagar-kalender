@@ -77,5 +77,37 @@ SUMMARY:L2: Space group determination exercise.
 UID:unique-id-l1-20250121@strukturanalys.com
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250128T100000
+DTEND;TZID=Europe/Stockholm:20250128T120000
+DESCRIPTION: Fourier series, electron density and Patterson map and interpretation. Start of project 2.
+SUMMARY:F6: Fourier series, electron density and Patterson map and interpretation. Start of project 2.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250128T131500
+DTEND;TZID=Europe/Stockholm:20250128T160000
+DESCRIPTION:Structure solution by interpretation of Patterson map. 
+SUMMARY:L3: Structure solution by interpretation of Patterson map. 
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250129T100000
+DTEND;TZID=Europe/Stockholm:20250129T120000
+DESCRIPTION: Direct methods-I, SHELX suite.
+SUMMARY:F7: Direct methods-I, SHELX suite.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250129T131500
+DTEND;TZID=Europe/Stockholm:20250129T160000
+DESCRIPTION:R2.
+SUMMARY: R2.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
+
 
 END:VCALENDAR
