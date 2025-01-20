@@ -34,7 +34,6 @@ SUMMARY:F3: Scattering in crystals, Laue and Ewald.
 UID:unique-id-f2-20250121@strukturanalys.com
 END:VEVENT
 
-
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Stockholm:20250123T100000
 DTEND;TZID=Europe/Stockholm:20250123T120000
@@ -59,7 +58,24 @@ SUMMARY:P1: Oral presentation of project 1.
 UID:unique-id-l1-20250121@strukturanalys.com
 END:VEVENT
 
+Vecka 2
 
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250127T100000
+DTEND;TZID=Europe/Stockholm:20250127T120000
+DESCRIPTION: Point groups and space groups-II. Data collection-I, spacegr. det. and refl. cond.
+SUMMARY:F5: Point groups and space groups-II. Data collection-I, spacegr. det. and refl. cond.
+UID:unique-id-f2-20250121@strukturanalys.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Stockholm:20250127T131500
+DTEND;TZID=Europe/Stockholm:20250127T160000
+DESCRIPTION:Space group determination exercise.
+SUMMARY:L2: Space group determination exercise.
+UID:unique-id-l1-20250121@strukturanalys.com
+END:VEVENT
 
 
 END:VCALENDAR
