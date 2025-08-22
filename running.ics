@@ -4,667 +4,379 @@ PRODID:shifted-half-marathon-plan-v1
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 SUMMARY:Easy Run(40:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250826-1@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
 SUMMARY:Progression Run(45:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Last 10 minutes at a faster pace.
-Workout Purpose:
-Build endurance and stamina.
+DESCRIPTION: Last 10 minutes at a faster pace. Workout Purpose: Build endurance and stamina.
 UID:20250828-2@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
 SUMMARY:Easy Run(35:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250830-3@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
 SUMMARY:Long Run(1:05:00 @ 5:01-5:49 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20250831-4@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 SUMMARY:Easy Run(40:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250902-5@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
 SUMMARY:Progression Run(55:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Last 10 minutes at a faster pace.
-Workout Purpose:
-Build endurance and stamina.
+DESCRIPTION: Last 10 minutes at a faster pace. Workout Purpose: Build endurance and stamina.
 UID:20250904-6@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 SUMMARY:Easy Run(35:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250906-7@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250907
 SUMMARY:Long Run(1:15:00 @ 5:01-5:49 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20250907-8@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
 SUMMARY:Easy Run(40:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250909-9@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250911
 SUMMARY:Hill Workout(55:00)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down
-Workout Purpose:
-Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20250911-10@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
 SUMMARY:Easy Run(35:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250913-11@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250914
 SUMMARY:Long Run(1:15:00 @ 5:01-5:49 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20250914-12@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 SUMMARY:Easy Run(35:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250916-13@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250918
 SUMMARY:Easy Run(45:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250918-14@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
 SUMMARY:Easy Run(45:00 @ 4:59-5:36 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250920-15@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250921
 SUMMARY:Long Run(1:05:00 @ 5:01-5:49 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20250921-16@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
 SUMMARY:Easy Run(45:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250923-17@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
 SUMMARY:Hill Workout(1:10:00)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down
-Workout Purpose:
-Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20250925-18@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 SUMMARY:Easy Run(35:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250927-19@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250928
 SUMMARY:Long Run(1:15:00 @ 4:58-5:46 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20250928-20@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 SUMMARY:Easy Run(45:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20250930-21@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
 SUMMARY:Cruise Intervals 800m(1:20:00 @ 3:26-3:32 /rep)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Cruise Interval Workout: 8-10 times 800 meters with 200 meter recovery jog between plus 4x 100m Strides with 100m recovery jog + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: 15-25 minute Warm-Up + Cruise Interval Workout: 8-10 times 800 meters with 200 meter recovery jog between plus 4x 100m Strides with 100m recovery jog + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251002-22@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 SUMMARY:Easy Run(35:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251004-23@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251005
 SUMMARY:Long Run(1:15:00 @ 4:58-5:46 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251005-24@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
 SUMMARY:Easy Run(45:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251007-25@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 SUMMARY:Goal Pace(1:25:00 @ 4:15 min/km)
-DESCRIPTION:Workout Description:
-Goal Pace Intervals Workout: 15-25 minute Warm-Up + Goal Pace Intervals: 4 x 8 minutes at Goal Half Marathon Pace with 2 minute slow jog in between + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: Goal Pace Intervals Workout: 15-25 minute Warm-Up + Goal Pace Intervals: 4 x 8 minutes at Goal Half Marathon Pace with 2 minute slow jog in between + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251009-26@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251011
 SUMMARY:Easy Run(35:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251011-27@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251012
 SUMMARY:Long Run(1:45:00 @ 4:58-5:46 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251012-28@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
 SUMMARY:Easy Run(35:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251014-29@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 SUMMARY:Hill Workout(1:10:00)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down
-Workout Purpose:
-Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20251016-30@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
 SUMMARY:Easy Run(35:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251018-31@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251019
 SUMMARY:Long Run(1:15:00 @ 4:58-5:46 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251019-32@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251021
 SUMMARY:Easy Run(55:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251021-33@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 SUMMARY:Cruise Intervals 1000m(1:20:00 @ 4:18-4:26 /rep)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Cruise Interval Workout: 8-10 times 1000 meters with 200 meter recovery jog between plus 4x 100m Strides with 100m recovery jog + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: 15-25 minute Warm-Up + Cruise Interval Workout: 8-10 times 1000 meters with 200 meter recovery jog between plus 4x 100m Strides with 100m recovery jog + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251023-34@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251025
 SUMMARY:Easy Run(35:00 @ 4:56-5:33 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251025-35@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Long Run(1:45:00 @ 4:58-5:46 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251026-36@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
 SUMMARY:Easy Run(55:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251028-37@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 SUMMARY:Speed Workout 1600m(1:30:00 @ 6:43-6:56 /rep)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Speed Workout: 4 to 6 x 1600m (1 Mile) with 800m recovery jog plus 3 x 200m Strides with 200m recovery jog + 15-25 minute Cool-down
-Workout Purpose:
-Build speed - VO2max.
+DESCRIPTION: 15-25 minute Warm-Up + Speed Workout: 4 to 6 x 1600m (1 Mile) with 800m recovery jog plus 3 x 200m Strides with 200m recovery jog + 15-25 minute Cool-down Workout Purpose: Build speed - VO2max.
 UID:20251030-38@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Easy Run(35:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251101-39@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Long Run(13 mi @ 4:55-5:42 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251102-40@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
 SUMMARY:Easy Run(1:10:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251104-41@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Goal Pace(1:25:00 @ 4:15 min/km)
-DESCRIPTION:Workout Description:
-Goal Pace Intervals Workout: 15-25 minute Warm-Up + Goal Pace Intervals: 3 x 10 at Goal Half Marathon Pace with 3 minute slow jog in between + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: Goal Pace Intervals Workout: 15-25 minute Warm-Up + Goal Pace Intervals: 3 x 10 at Goal Half Marathon Pace with 3 minute slow jog in between + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251106-42@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251108
 SUMMARY:Easy Run(35:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251108-43@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
 SUMMARY:Long Run(13 mi @ 4:55-5:42 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251109-44@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
 SUMMARY:Easy Run(45:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251111-45@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Hill Workout(1:10:00)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down
-Workout Purpose:
-Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20251113-46@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Easy Run(35:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251115-47@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251116
 SUMMARY:Fast Finish Long Run(11 mi @ 4:55-5:42 min/km)
-DESCRIPTION:Workout Description:
-Fast Finish Long Run: 10-12 miles (16-19 km) total with the last 2 to 4 miles (3-6 km) at goal half-marathon pace or slightly faster. Or, insert a 5K to 10K RACE.
-Workout Purpose:
-Build endurance, leg resistance to fatigue, practice race pace, try equipment and nutritional routine.
+DESCRIPTION: Fast Finish Long Run: 10-12 miles (16-19 km) total with the last 2 to 4 miles (3-6 km) at goal half-marathon pace or slightly faster. Or, insert a 5K to 10K RACE. Workout Purpose: Build endurance, leg resistance to fatigue, practice race pace, try equipment and nutritional routine.
 UID:20251116-48@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251118
 SUMMARY:Easy Run(1:10:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251118-49@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 SUMMARY:Goal Pace(1:30:00 @ 4:15 min/km)
-DESCRIPTION:Workout Description:
-Goal Pace Intervals Workout: 15-25 minute Warm-Up + Goal Pace Intervals: 3 x 15 minutes at Goal Half Marathon Pace with 3 minute slow jog in between + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: Goal Pace Intervals Workout: 15-25 minute Warm-Up + Goal Pace Intervals: 3 x 15 minutes at Goal Half Marathon Pace with 3 minute slow jog in between + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251120-50@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251122
 SUMMARY:Easy Run(35:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251122-51@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Fast Finish Long Run(11 mi @ 4:55-5:42 min/km)
-DESCRIPTION:Workout Description:
-Fast Finish Long Run: 10-12 miles (16-19 km) total with the last 2 to 4 miles (3-6 km) at goal half-marathon pace or slightly faster. Or, insert a 5K to 10K RACE.
-Workout Purpose:
-Build endurance, leg resistance to fatigue, practice race pace, try equipment and nutritional routine.
+DESCRIPTION: Fast Finish Long Run: 10-12 miles (16-19 km) total with the last 2 to 4 miles (3-6 km) at goal half-marathon pace or slightly faster. Or, insert a 5K to 10K RACE. Workout Purpose: Build endurance, leg resistance to fatigue, practice race pace, try equipment and nutritional routine.
 UID:20251123-52@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
 SUMMARY:Easy Run(1:10:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251125-53@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
 SUMMARY:Tempo Run(1:15:00 @ 4:23-4:34 min/km)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Tempo Run: 15 to 25 minutes + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: 15-25 minute Warm-Up + Tempo Run: 15 to 25 minutes + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251127-54@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
 SUMMARY:Easy Run(35:00 @ 4:53-5:30 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251129-55@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Long Run(13 mi @ 4:55-5:42 min/km)
-DESCRIPTION:Workout Description:
-Long Run at steady pace.
-Workout Purpose:
-Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
+DESCRIPTION: Long Run at steady pace. Workout Purpose: Build endurance and leg resistance to fatigue. Long runs are the cornerstone of endurance training. By running longer, you stimulate very important adaptations that give you the ability to run faster in your intense workouts.
 UID:20251130-56@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
 SUMMARY:Easy Run(55:00 @ 4:50-5:26 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251202-57@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
 SUMMARY:Tempo Intervals(1:15:00 @ 4:16-4:26 min/km)
-DESCRIPTION:Workout Description:
-15-25 minute Warm-Up + Tempo Intervals: 3 x 1 mile with 3 minute slow jog in between + 15-25 minute Cool-down
-Workout Purpose:
-Build stamina - lactate threshold pace.
+DESCRIPTION: 15-25 minute Warm-Up + Tempo Intervals: 3 x 1 mile with 3 minute slow jog in between + 15-25 minute Cool-down Workout Purpose: Build stamina - lactate threshold pace.
 UID:20251204-58@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
 SUMMARY:Easy Run(35:00 @ 4:50-5:26 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251206-59@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251207
 SUMMARY:Fast Finish Long Run(11 mi @ 4:53-5:39 min/km)
-DESCRIPTION:Workout Description:
-Fast Finish Long Run: 10-12 miles (16-19 km) total with the last 2 to 4 miles (3-6 km) at goal half-marathon pace or slightly faster. Or, insert a 5K to 10K RACE.
-Workout Purpose:
-Build endurance, leg resistance to fatigue, practice race pace, try equipment and nutritional routine.
+DESCRIPTION: Fast Finish Long Run: 10-12 miles (16-19 km) total with the last 2 to 4 miles (3-6 km) at goal half-marathon pace or slightly faster. Or, insert a 5K to 10K RACE. Workout Purpose: Build endurance, leg resistance to fatigue, practice race pace, try equipment and nutritional routine.
 UID:20251207-60@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251209
 SUMMARY:Easy Run(35:00 @ 4:50-5:26 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251209-61@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251211
 SUMMARY:Fartlek Run(50:00)
-DESCRIPTION:Workout Description:
-10-20 minute Warm-Up + Fartlek Workout: 8-10 times 1 minutes at 5k effort or faster with 1 minute recovery jog + 10-20 minute Cool-down
-Workout Purpose:
-Build speed - VO2max.
+DESCRIPTION: 10-20 minute Warm-Up + Fartlek Workout: 8-10 times 1 minutes at 5k effort or faster with 1 minute recovery jog + 10-20 minute Cool-down Workout Purpose: Build speed - VO2max.
 UID:20251211-62@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
 SUMMARY:Easy Run(20:00 @ 4:50-5:26 min/km)
-DESCRIPTION:Workout Description:
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
-Easy Run at steady pace.
-Workout Purpose:
-To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
+DESCRIPTION: Easy Run at steady pace. Workout Purpose: To build fitness safely, you can use your breathing as your guide to how fast you should be running. On easy runs, you should never get out of breath and should be able to carry on a conversation with a training partner. If you get out of your breath, then you are running too fast.
 UID:20251213-63@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
