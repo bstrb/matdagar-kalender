@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
 SUMMARY:Hill Workout(1:10:00)
-DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 8-10 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20250925-18@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 SUMMARY:Hill Workout(1:10:00)
-DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 10-12 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20251016-30@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
@@ -274,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Hill Workout(1:10:00)
-DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 6-8 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
+DESCRIPTION: 15-25 minute Warm-Up + Hill Repeats: 10-12 times a moderately sloped hill (6-8% grade) at 5k effort or harder lasting 60 to 75 seconds with the jog back down the hill as recovery + 15-25 minute Cool-down Workout Purpose: Build leg strength, VO2max and lactic acid tolerance.
 UID:20251113-46@halfmarathon
 END:VEVENT
 BEGIN:VEVENT
