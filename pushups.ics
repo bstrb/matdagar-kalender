@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:pushup-plan-to-yearend-v1
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+SUMMARY:Push-Ups Volume Day (8×25–30)
+DESCRIPTION:Goal: accumulate clean reps without failure. Do 8 sets of 25–30 reps (about 50–60% of your current max=50). Rest 60–120s. Stop each set with ~2–4 reps in reserve. Warm-up: 2×10 scapular push-ups + 1×30–45s plank + 1×8 slow push-ups.
+UID:20251205-1@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251207
+SUMMARY:Push-Ups Intensity Day (6×10–15 harder variation)
+DESCRIPTION:Goal: build strength so your max set rises. Choose ONE: feet-elevated push-ups OR slow-tempo (3s down + 1s pause). Do 6 sets of 10–15 reps, rest ~2 min. Optional: 2×12–15 close-grip ONLY if elbows/shoulders feel great.
+UID:20251207-2@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+SUMMARY:Push-Ups Volume Day (EMOM 12 min: 14–18 reps/min)
+DESCRIPTION:Goal: high total reps and repeatability. Every minute on the minute for 12 minutes: do 14–18 push-ups (pick a number you can sustain). If you miss a minute early, lower reps and finish all 12 minutes. Keep all reps smooth; no grinding.
+UID:20251209-3@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251211
+SUMMARY:Push-Ups Specific Endurance (3 rounds: 35/25/18–20)
+DESCRIPTION:Goal: practice “big set” stamina. Do 3 rounds of: 35 reps (~70%); rest 2–3 min; 25 reps (~50%); rest 2–3 min; 18–20 reps (~35–40%). Keep form strict and consistent ROM.
+UID:20251211-4@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251212
+SUMMARY:Push-Ups Recovery/Mobility (optional 10–15 min)
+DESCRIPTION:Optional: easy shoulder + elbow-friendly work. Light scapular push-ups 2×10, forearm/wrist mobility 5 min, gentle chest/pec stretch. No maxing, no pain.
+UID:20251212-5@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251214
+SUMMARY:Push-Ups Max Test (1 set, strict)
+DESCRIPTION:Test only if you feel fresh and pain-free. Warm-up as usual, then do 1 strict max set (full ROM, consistent tempo). Record reps and how it felt. Do not test more than once every 2–3 weeks.
+UID:20251214-6@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Push-Ups Volume Day (8×25–30, progress if easy)
+DESCRIPTION:Repeat volume structure. If last week was clean: add +1 rep per set OR add 1 extra set (up to 10–12 total) before increasing reps again. Rest 60–120s, keep 2–4 reps in reserve.
+UID:20251216-7@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Push-Ups Intensity Day (6×10–15 harder variation)
+DESCRIPTION:Repeat intensity day. Progress by slightly higher feet elevation OR slightly slower tempo OR +1 rep per set (only one change at a time). Rest ~2 min. Optional close-grip only if joints feel great.
+UID:20251218-8@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+SUMMARY:Push-Ups Volume Day (Ladder 12-14-16-18-20-18-16-14-12)
+DESCRIPTION:Goal: lots of quality reps without failure. Do ladder: 12,14,16,18,20,18,16,14,12 with 60–120s rest. If any set becomes grindy, reduce the peak (e.g., top at 18 instead of 20).
+UID:20251220-9@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251222
+SUMMARY:Push-Ups Specific Endurance (3 rounds: 35/25/18–20)
+DESCRIPTION:Same as before. Keep rest honest (2–3 min). If you’re cruising, bump the first number slightly (e.g., 36–38) but never to failure.
+UID:20251222-10@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+SUMMARY:Push-Ups Deload Volume (reduce sets by ~40%)
+DESCRIPTION:Deload to protect elbows/shoulders and lock in gains. Do the same style as a volume day but with ~40% fewer sets (e.g., 5×25–30). Keep everything easy and crisp.
+UID:20251227-11@pushups
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+SUMMARY:Push-Ups Max Test (Year-End)
+DESCRIPTION:After a good warm-up, do 1 strict max set. Compare to your baseline (50). Notes: full ROM, consistent tempo, no hip sag. If any joint pain is present, skip maxing and do an easy volume session instead.
+UID:20251231-12@pushups
+END:VEVENT
+
+END:VCALENDAR
