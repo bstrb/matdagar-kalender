@@ -1,0 +1,541 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:10k-sub40-by-may-2026-v1
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Threshold Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 2×10 min at comfortably-hard (you can speak in short phrases), with 2–3 min easy jog between. Cool-down 10–15 min. Total ~60–75 min.
+UID:20251216-1@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Hills or Fartlek (Strength/Speed)
+DESCRIPTION:15–20 min warm-up. Main set: 8–12×60–75 sec uphill at hard-but-controlled effort; jog back down easy. Cool-down 10–15 min. Total ~60–75 min.
+UID:20251218-2@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20251220-3@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Long Run Easy
+DESCRIPTION:75 min easy conversational. Optional: last 10 min steady if you feel great.
+UID:20251221-4@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251223
+SUMMARY:Threshold Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×10 min at comfortably-hard (you can speak in short phrases), with 2–3 min easy jog between. Cool-down 10–15 min. Total ~60–75 min.
+UID:20251223-5@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Hills or Fartlek (Strength/Speed)
+DESCRIPTION:15–20 min warm-up. Main set: 8–12×60–75 sec uphill at hard-but-controlled effort; jog back down easy. Cool-down 10–15 min. Total ~60–75 min.
+UID:20251225-6@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251228
+SUMMARY:Long Run Easy
+DESCRIPTION:80 min easy conversational. Optional: last 10 min steady if you feel great.
+UID:20251228-7@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251230
+SUMMARY:Threshold Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×12 min at comfortably-hard (you can speak in short phrases), with 2–3 min easy jog between. Cool-down 10–15 min. Total ~60–75 min.
+UID:20251230-8@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:Hills or Fartlek (Strength/Speed)
+DESCRIPTION:15–20 min warm-up. Main set: 8–12×60–75 sec uphill at hard-but-controlled effort; jog back down easy. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260101-9@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260103
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260103-10@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+SUMMARY:Long Run Easy
+DESCRIPTION:85 min easy conversational. Optional: last 10 min steady if you feel great.
+UID:20260104-11@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+SUMMARY:Easy + light threshold (Deload)
+DESCRIPTION:Deload week: keep it controlled. 15 min easy warm-up, then 2×8 min at comfortably-hard (threshold) with 3 min easy jog, then easy cool-down to ~50–60 min total. Add 4×20 sec relaxed strides if you feel good.
+UID:20260106-12@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+SUMMARY:Easy Fartlek (Deload)
+DESCRIPTION:Deload week: 15 min warm-up, then 8×1 min fast / 1 min easy (fast = controlled, relaxed), then cool-down. Total ~50–60 min.
+UID:20260108-13@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+SUMMARY:Long Run Easy (Deload)
+DESCRIPTION:70 min easy conversational long run. Keep it genuinely easy.
+UID:20260111-14@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+SUMMARY:Threshold Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×12 min at comfortably-hard (you can speak in short phrases), with 2–3 min easy jog between. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260113-15@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+SUMMARY:Hills or Fartlek (Strength/Speed)
+DESCRIPTION:15–20 min warm-up. Main set: 8–12×60–75 sec uphill at hard-but-controlled effort; jog back down easy. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260115-16@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260117-17@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Long Run Easy
+DESCRIPTION:95 min easy conversational. Optional: last 10 min steady if you feel great.
+UID:20260118-18@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+SUMMARY:Threshold Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×15 min at comfortably-hard (you can speak in short phrases), with 2–3 min easy jog between. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260120-19@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+SUMMARY:Hills or Fartlek (Strength/Speed)
+DESCRIPTION:15–20 min warm-up. Main set: 8–12×60–75 sec uphill at hard-but-controlled effort; jog back down easy. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260122-20@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Long Run Easy
+DESCRIPTION:100 min easy conversational. Optional: last 10 min steady if you feel great.
+UID:20260125-21@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+SUMMARY:Threshold Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 2×12 min at comfortably-hard (you can speak in short phrases), with 2–3 min easy jog between. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260127-22@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+SUMMARY:Hills or Fartlek (Strength/Speed)
+DESCRIPTION:15–20 min warm-up. Main set: 8–12×60–75 sec uphill at hard-but-controlled effort; jog back down easy. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260129-23@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260131-24@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+SUMMARY:Long Run Easy
+DESCRIPTION:105 min easy conversational. Optional: last 10 min steady if you feel great.
+UID:20260201-25@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+SUMMARY:Easy + light threshold (Deload)
+DESCRIPTION:Deload week: keep it controlled. 15 min easy warm-up, then 2×8 min at comfortably-hard (threshold) with 3 min easy jog, then easy cool-down to ~50–60 min total. Add 4×20 sec relaxed strides if you feel good.
+UID:20260203-26@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+SUMMARY:Easy Fartlek (Deload)
+DESCRIPTION:Deload week: 15 min warm-up, then 8×1 min fast / 1 min easy (fast = controlled, relaxed), then cool-down. Total ~50–60 min.
+UID:20260205-27@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+SUMMARY:Long Run Easy (Deload)
+DESCRIPTION:75 min easy conversational long run. Keep it genuinely easy.
+UID:20260208-28@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+SUMMARY:Cruise Intervals (10K/Threshold)
+DESCRIPTION:15–20 min warm-up. Main set: 5×1 km at controlled hard effort (around 10K-to-threshold), with 60–90 sec easy jog. Finish with 4×20 sec strides. Cool-down. Total ~65–80 min.
+UID:20260210-29@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+SUMMARY:VO2max Intervals (800s)
+DESCRIPTION:15–20 min warm-up. Main set: 6×800 m at ~5K effort with 2:00–2:30 easy jog. Cool-down. Total ~60–75 min.
+UID:20260212-30@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+SUMMARY:5K Tune-Up (or parkrun/time trial)
+DESCRIPTION:Warm-up 15–20 min + a few strides, then run a hard controlled 5K (aim for even splits). Cool-down 10–15 min. Use as fitness check, not an all-out sufferfest.
+UID:20260214-31@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+SUMMARY:Long Run Easy
+DESCRIPTION:94 min easy conversational. Every other week you may finish last 15–20 min steady (not hard).
+UID:20260215-32@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+SUMMARY:Cruise Intervals (10K/Threshold)
+DESCRIPTION:15–20 min warm-up. Main set: 5×1 km at controlled hard effort (around 10K-to-threshold), with 60–90 sec easy jog. Finish with 4×20 sec strides. Cool-down. Total ~65–80 min.
+UID:20260217-33@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+SUMMARY:VO2max Intervals (800s)
+DESCRIPTION:15–20 min warm-up. Main set: 6×800 m at ~5K effort with 2:00–2:30 easy jog. Cool-down. Total ~60–75 min.
+UID:20260219-34@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260221-35@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+SUMMARY:Long Run Easy
+DESCRIPTION:97 min easy conversational. Every other week you may finish last 15–20 min steady (not hard).
+UID:20260222-36@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+SUMMARY:Cruise Intervals (10K/Threshold)
+DESCRIPTION:15–20 min warm-up. Main set: 6×1 km at controlled hard effort (around 10K-to-threshold), with 60–90 sec easy jog. Finish with 4×20 sec strides. Cool-down. Total ~65–80 min.
+UID:20260224-37@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+SUMMARY:Speed (400s)
+DESCRIPTION:15–20 min warm-up. Main set: 12×400 m fast-but-controlled with 200 m easy jog. Cool-down. Total ~60–75 min.
+UID:20260226-38@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Long Run Easy
+DESCRIPTION:100 min easy conversational. Every other week you may finish last 15–20 min steady (not hard).
+UID:20260301-39@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+SUMMARY:Easy + light threshold (Deload)
+DESCRIPTION:Deload week: keep it controlled. 15 min easy warm-up, then 2×8 min at comfortably-hard (threshold) with 3 min easy jog, then easy cool-down to ~50–60 min total. Add 4×20 sec relaxed strides if you feel good.
+UID:20260303-40@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+SUMMARY:Easy Fartlek (Deload)
+DESCRIPTION:Deload week: 15 min warm-up, then 8×1 min fast / 1 min easy (fast = controlled, relaxed), then cool-down. Total ~50–60 min.
+UID:20260305-41@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260307-42@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+SUMMARY:Long Run Easy (Deload)
+DESCRIPTION:75 min easy conversational long run. Keep it genuinely easy.
+UID:20260308-43@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+SUMMARY:Cruise Intervals (10K/Threshold)
+DESCRIPTION:15–20 min warm-up. Main set: 6×1 km at controlled hard effort (around 10K-to-threshold), with 60–90 sec easy jog. Finish with 4×20 sec strides. Cool-down. Total ~65–80 min.
+UID:20260310-44@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+SUMMARY:VO2max Intervals (800s)
+DESCRIPTION:15–20 min warm-up. Main set: 7×800 m at ~5K effort with 2:00–2:30 easy jog. Cool-down. Total ~60–75 min.
+UID:20260312-45@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Long Run Easy
+DESCRIPTION:106 min easy conversational. Every other week you may finish last 15–20 min steady (not hard).
+UID:20260315-46@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+SUMMARY:Cruise Intervals (10K/Threshold)
+DESCRIPTION:15–20 min warm-up. Main set: 7×1 km at controlled hard effort (around 10K-to-threshold), with 60–90 sec easy jog. Finish with 4×20 sec strides. Cool-down. Total ~65–80 min.
+UID:20260317-47@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+SUMMARY:VO2max Intervals (800s)
+DESCRIPTION:15–20 min warm-up. Main set: 7×800 m at ~5K effort with 2:00–2:30 easy jog. Cool-down. Total ~60–75 min.
+UID:20260319-48@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260321-49@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+SUMMARY:Long Run Easy
+DESCRIPTION:106 min easy conversational. Every other week you may finish last 15–20 min steady (not hard).
+UID:20260322-50@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+SUMMARY:Cruise Intervals (10K/Threshold)
+DESCRIPTION:15–20 min warm-up. Main set: 7×1 km at controlled hard effort (around 10K-to-threshold), with 60–90 sec easy jog. Finish with 4×20 sec strides. Cool-down. Total ~65–80 min.
+UID:20260324-51@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+SUMMARY:Speed (400s)
+DESCRIPTION:15–20 min warm-up. Main set: 12×400 m fast-but-controlled with 200 m easy jog. Cool-down. Total ~60–75 min.
+UID:20260326-52@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+SUMMARY:10K Tempo/Simulation (Controlled)
+DESCRIPTION:Option A: controlled 10K at strong-but-sustainable effort (not full race). Option B: 2×3 km at ~10K pace with 4 min jog. Warm-up/cool-down as usual.
+UID:20260328-53@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+SUMMARY:Long Run Easy
+DESCRIPTION:106 min easy conversational. Every other week you may finish last 15–20 min steady (not hard).
+UID:20260329-54@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+SUMMARY:Easy + light threshold (Deload)
+DESCRIPTION:Deload week: keep it controlled. 15 min easy warm-up, then 2×8 min at comfortably-hard (threshold) with 3 min easy jog, then easy cool-down to ~50–60 min total. Add 4×20 sec relaxed strides if you feel good.
+UID:20260331-55@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Easy Fartlek (Deload)
+DESCRIPTION:Deload week: 15 min warm-up, then 8×1 min fast / 1 min easy (fast = controlled, relaxed), then cool-down. Total ~50–60 min.
+UID:20260402-56@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+SUMMARY:Long Run Easy (Deload)
+DESCRIPTION:75 min easy conversational long run. Keep it genuinely easy.
+UID:20260405-57@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+SUMMARY:10K Goal-Pace Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×2 km at goal 10K pace (controlled, even effort), with 2–3 min easy jog. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260407-58@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+SUMMARY:10K Support Speed
+DESCRIPTION:15–20 min warm-up. Main set: 10–14×400 m a bit faster than 10K pace with 200 m easy jog. Cool-down. Total ~60–70 min.
+UID:20260409-59@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260411-60@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+SUMMARY:Long Run + Fast Finish (optional)
+DESCRIPTION:90 min easy; if feeling strong, finish last 15–25 min at moderate/steady effort (not race pace).
+UID:20260412-61@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+SUMMARY:10K Goal-Pace Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×2 km at goal 10K pace (controlled, even effort), with 2–3 min easy jog. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260414-62@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+SUMMARY:10K Support Speed
+DESCRIPTION:15–20 min warm-up. Main set: 10–14×400 m a bit faster than 10K pace with 200 m easy jog. Cool-down. Total ~60–70 min.
+UID:20260416-63@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+SUMMARY:Long Run + Fast Finish (optional)
+DESCRIPTION:90 min easy; if feeling strong, finish last 15–25 min at moderate/steady effort (not race pace).
+UID:20260419-64@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+SUMMARY:10K Goal-Pace Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 3×2 km at goal 10K pace (controlled, even effort), with 2–3 min easy jog. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260421-65@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+SUMMARY:10K Support Speed
+DESCRIPTION:15–20 min warm-up. Main set: 10–14×400 m a bit faster than 10K pace with 200 m easy jog. Cool-down. Total ~60–70 min.
+UID:20260423-66@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260425-67@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+SUMMARY:Long Run + Fast Finish (optional)
+DESCRIPTION:90 min easy; if feeling strong, finish last 15–25 min at moderate/steady effort (not race pace).
+UID:20260426-68@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+SUMMARY:Easy + light threshold (Deload)
+DESCRIPTION:Deload week: keep it controlled. 15 min easy warm-up, then 2×8 min at comfortably-hard (threshold) with 3 min easy jog, then easy cool-down to ~50–60 min total. Add 4×20 sec relaxed strides if you feel good.
+UID:20260428-69@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+SUMMARY:Easy Fartlek (Deload)
+DESCRIPTION:Deload week: 15 min warm-up, then 8×1 min fast / 1 min easy (fast = controlled, relaxed), then cool-down. Total ~50–60 min.
+UID:20260430-70@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+SUMMARY:Long Run Easy (Deload)
+DESCRIPTION:75 min easy conversational long run. Keep it genuinely easy.
+UID:20260503-71@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+SUMMARY:10K Goal-Pace Blocks
+DESCRIPTION:15–20 min warm-up. Main set: 4×2 km at goal 10K pace (controlled, even effort), with 2–3 min easy jog. Cool-down 10–15 min. Total ~60–75 min.
+UID:20260505-72@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+SUMMARY:10K Support Speed
+DESCRIPTION:15–20 min warm-up. Main set: 10–14×400 m a bit faster than 10K pace with 200 m easy jog. Cool-down. Total ~60–70 min.
+UID:20260507-73@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260509-74@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+SUMMARY:Long Run + Fast Finish (optional)
+DESCRIPTION:90 min easy; if feeling strong, finish last 15–25 min at moderate/steady effort (not race pace).
+UID:20260510-75@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+SUMMARY:10K Pace Tune (Pre-TT)
+DESCRIPTION:15–20 min warm-up. Main set: 3×1 km at goal 10K pace with 3 min easy jog. Cool-down. Keep it snappy, not maximal.
+UID:20260512-76@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+SUMMARY:Short 10K Pace Session
+DESCRIPTION:15 min warm-up. Main set: 5×600 m at ~10K pace with 90 sec easy jog. Cool-down. Total ~50–60 min.
+UID:20260514-77@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+SUMMARY:10K Time Trial (Goal Check)
+DESCRIPTION:Warm-up 20 min + 4×20 sec strides. Then 10K time trial aiming for sub-40 (3:59/km). Start slightly conservative for 2–3 km, then lock in. Cool-down 10–15 min.
+UID:20260516-78@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+SUMMARY:Long Run Easy (Maintain)
+DESCRIPTION:60–80 min easy conversational. Keep fatigue low; prioritize quality on Tue/Thu.
+UID:20260517-79@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+SUMMARY:Easy Run + Strides (Race Week)
+DESCRIPTION:40–50 min easy + 6×20 sec relaxed strides. Keep it light to stay fresh for the weekend 10K time trial.
+UID:20260519-80@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+SUMMARY:Shakeout + Strides (Race Week)
+DESCRIPTION:30–45 min easy + 4×20 sec strides. Keep it light.
+UID:20260521-81@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+SUMMARY:Long Run Easy (Maintain)
+DESCRIPTION:60–80 min easy conversational. Keep fatigue low; prioritize quality on Tue/Thu.
+UID:20260524-82@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+SUMMARY:Recovery Easy (Post-TT Deload)
+DESCRIPTION:40–55 min very easy. Optional 4×20 sec strides only if legs feel great. Focus on recovery this week.
+UID:20260526-83@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+SUMMARY:Easy + Light Speed (Post-TT)
+DESCRIPTION:45–60 min easy. If you feel good: 6×30 sec smoothly fast with plenty of easy jog between (not a workout).
+UID:20260528-84@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260530-85@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:Long Run Easy (Maintain)
+DESCRIPTION:60–80 min easy conversational. Keep fatigue low; prioritize quality on Tue/Thu.
+UID:20260531-86@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+SUMMARY:Aerobic Steady + Strides
+DESCRIPTION:50–65 min mostly easy with 10–15 min steady (not hard) in the middle. Finish with 4×20 sec relaxed strides.
+UID:20260602-87@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+SUMMARY:Tempo Intervals
+DESCRIPTION:15–20 min warm-up. Main set: 3×10 min at threshold with 3 min easy jog. Cool-down. Total ~65–80 min.
+UID:20260604-88@10k
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+SUMMARY:Easy Run + Strides (Optional)
+DESCRIPTION:30–50 min easy (truly conversational) + 6–8×20 sec strides (fast but relaxed, full recovery). Skip if tired—Sunday long run is the priority.
+UID:20260606-89@10k
+END:VEVENT
+
+END:VCALENDAR
